@@ -2,11 +2,19 @@
 
 ## Who Am I?
 A graduate student in Western University's MDA Program, specializing in Artificial Intelligence and Statistical Modeling.
+I love putting my skills to the test and solving technical puzzles to both solve research challenges and drive business value.
 
-## I'm currently learning:
+
+## 📚 My Skills: 
+- Programming Languages: Python, Java, C++, C#, JavaScript
+- Data Science: Statistical modeling, regression, Random Forest algorithm, etc.
+- Data Visualization: Power BI, Tableau
+- Software Development
+
+## 🌱 I'm currently learning:
 Statistical Modeling, Power BI, Microsoft Azure, Game Development in Unity & Godot
 
-## Past Projects:
+## 🔭 Past Projects:
 ### EpiBERT (With Prof. Yue Li, McGill University)
 - A BERT-based LLM trained for classifying and assigning appropriate NPI labels to COVID-19 related medical news articles.
 - Base model: BERT trained on Wikipedia corpus + AYLIEN COVID-19 dataset
